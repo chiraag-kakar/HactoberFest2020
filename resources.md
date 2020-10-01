@@ -19,3 +19,10 @@ I [Sneha](https:github.com/5hre9a) recommend to practice problems as much as you
  * [CodeForces](http://codeforces.com) - Russian website dedicated to competitive programming.
  * [ProjectEuler](http://projecteuler.net) - Solve computational and mathematical problems using your programming skills.
  * [LeetCode](https://leetcode.com) - Develop programming skills for your next interview.
+
+I [Chiraag](https://github.com/chiraag-kakar) recomend the following OJs (Online Judges) too to improve probelem solving skills :
+- [AtCoder](https://atcoder.jp/)
+- [CSES](https://cses.fi/problemset/list/)
+- [SPOJ](https://www.spoj.com/)
+
+
